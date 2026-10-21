@@ -2,9 +2,14 @@ Hey there! I'm Fatma, a Computer Engineering student at the University of Waterl
 
 I'm interested in embedded systems, firmware, digital hardware, and cybersecurity.
 
+---
+
 ### What I'm Working On
 **[FFT DSP Accelerator](https://github.com/TheRealGecko/tt-fft-dsp-accelerator)** | *Verilog, Python*
 - Designing an RTL hardware accelerator to process accelerometer data using FFT.
+
+--- 
+
 ### Featured Projects
 
 **[Sensorless BLDC Motor Controller](https://github.com/TheRealGecko/BLDC-Motor-Controller)** | *STM32, C, Altium Designer, GDB*
