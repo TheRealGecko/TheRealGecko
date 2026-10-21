@@ -4,8 +4,7 @@ I'm interested in embedded systems, firmware, digital hardware, and cybersecurit
 
 ### Technical Skills
 - **Languages:** C, C++, Python, Java  
-- **Embedded:** STM32, FreeRTOS, I2C, PWM, Interrupts  
-- **Hardware:** Altium Designer, PCB Design, Oscilloscope, Soldering  
+- **Embedded/Hardware:** STM32, FreeRTOS, I2C, PWM, Interrupts, Altium Designer, PCB Design, Oscilloscope, Soldering
 - **Tools:** Git, Linux, Bash, GDB  
 - **Data:** Pandas, Plotly
 
